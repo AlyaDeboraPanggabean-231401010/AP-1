@@ -81,17 +81,17 @@ int main()
         // cout<<b<<endl;
 
         //pre decre
-        cout<< a <<endl;
-        cout<< --a <<endl;
+        // cout<< a <<endl;
+        // cout<< --a <<endl;
 
-        cout<< b << endl;
-        cout<< --b <<endl;
+        // cout<< b << endl;
+        // cout<< --b <<endl;
 
         //post decre
-        cout<< a-- <<endl;
-        cout<< a <<endl;
+        // cout<< a-- <<endl;
+        // cout<< a <<endl;
 
-        cout<< b-- << endl;
-        cout<< b <<endl;
+        // cout<< b-- << endl;
+        // cout<< b <<endl;
 
     }
