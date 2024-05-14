@@ -11,8 +11,8 @@ int main ()
 //     printf("Hello World\n");
 
 //     printf("Masukkan nama : ");
-//     // scanf(" %[^\n]", &nama);
-//     gets(nama); //get string
+//     // scanf(" %[^\n]", &nama); // terlalu ribet
+//     gets(nama); //get string, bisa pakai ini 
 
 //     printf("Masukkan nim : ");
 //     scanf(" %d", &nim);
@@ -26,7 +26,7 @@ int main ()
 //     // printf("Nama: %s\n", nama); biasanya pake yg dibwah
 //     printf("Nama : ");
 //     puts(nama);
-//     \
+//     
 //     printf("NIM: %d\n", nim);
 //     printf("KOM: %c\n", kom);
 //     printf("IP: %.2f\n", ip);
