@@ -12,7 +12,7 @@ main()
 
     cout << "Masukkan nama : ";
     // cin >> nama; 
-    getline (cin, nama);
+    getline (cin, nama); // agar bisa baca karakter spasi
 
     cout << "Masukkan nim : ";
     cin >> nim; 
